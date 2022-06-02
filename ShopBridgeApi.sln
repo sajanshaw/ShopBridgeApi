@@ -5,9 +5,9 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopBridgeApi", "ShopBridgeApi\ShopBridgeApi.csproj", "{65C72236-6730-4C99-8FD5-6E6C8C804918}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopBridge.Core", "ShopBridge.Core\ShopBridge.Core.csproj", "{54C1357D-C36C-40E8-81D6-C868222E3035}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopBridge.Core", "ShopBridge.Core\ShopBridge.Core.csproj", "{54C1357D-C36C-40E8-81D6-C868222E3035}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopBridge.Model", "ShopBridge.Model\ShopBridge.Model.csproj", "{BF3BD5C0-9A83-4E95-A2F5-54F165D3377F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopBridge.Model", "ShopBridge.Model\ShopBridge.Model.csproj", "{BF3BD5C0-9A83-4E95-A2F5-54F165D3377F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
